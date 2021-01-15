@@ -23,7 +23,7 @@ Finding the minimum average in-queue time requires performing the experiment on 
 
 
 <p allign = 'center'>
-    <img src = 'images/diagram1.png' width = '70%'>
+    <img src = 'images/diagram1.png' width = '80%'>
 </p>
 
 
